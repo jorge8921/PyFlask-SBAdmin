@@ -55,7 +55,7 @@ templates/
 ## 🔧 Running the App
 
 1. Clone the repo:
-   git clone https://github.com/jorge8921/sbadmin_py.git
+   git clone https://github.com/jorge8921/PyFlask-SBAdmin.git
    cd sbadmin_py
 
 
